@@ -19,4 +19,4 @@ I'm a 15 year old somphemore from a city near Toronto, who loves to code, listen
 <b> [Teenager? Are you in the Eastern Hemisphere or Anyone on Earth? Join me at Epoch, a 42 hour hackathon this new years in Delhi NCR](epoch.hackclub.com)
 
 
-<small>  🏳️‍🌈 </small> 
+
