@@ -11,8 +11,7 @@ I'm a 15 year old somphemore from a city near Toronto, who loves to code, listen
 
 ### Projects I'm working on right now
 - [ ] [Making a Sprig Color Tile Game](sprig.hackclub.com)
-- [ ] [Remaking Antiwork - A extestion that stops you from doing work](github.com/tregsthedev/antiwork) (I made Antiwork in about 3 hours at Assemble)
-- [ ] Trying to figure out how to convert chatgpt-extestion to a firefox extestion
+
 
 
 
