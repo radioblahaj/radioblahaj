@@ -3,7 +3,7 @@
 # 🌈🦖 Bonjour, je m'appelle Arav
 I'm a 15 year old somphemore from a city near Toronto, who loves to code, listen/host podcasts, learn new things, and knows a little french.
 
-Right now I'm building random projects & getting better at programming, working on improvments and maintaing Toriel -- Hack Club's Slack Welcome Bot and helping modreate/keep the  Hack Club Slack a fun & safe place for everyone.
+Right now I'm building random projects & getting better at programming, working on improvments and maintaing Toriel -- Hack Club's Slack Welcome Bot and helping modreate/keep the  Hack Club Slack a fun & safe place for everyone. Other than programming, I love reading books, biking and discovering new places, learning about urban planning, transportation, climate change (and the list goes on, and on, and on)
 
 Recently I've organzied [AngelHacks Toronto](https://toronto.angelhacks.org), a 12 hour gamejam/hackathon-like event
 
