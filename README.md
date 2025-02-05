@@ -1,7 +1,7 @@
 ![into the redwoods](https://cloud-252jvz0gp-hack-club-bot.vercel.app/0download__7_.png)
 
-# 🌈🦖 Bonjour, je m'appelle Arav
-Haj! I'm Arav, and I'm a 17 year old senior for Mississauga, Ontario!
+# 🌈🦖 Bonjour!
+Hi! I'm Arav, and I'm a 17 year old senior from Mississauga, Ontario!
 
 I'm a high schooler who loves building and running online communites, connecting people together, programming (I think that's obvious), and I'm also a really big poltics & urban planning nerd (in training!). I'm hoping to major in a BA in social sciences, and right now Politcal Science is my top choice.
 
