@@ -10,6 +10,7 @@ I'm working at [Hack Club](https://hackclub.com), I help run community logsticts
 
 Communites are a big part of my life, and they've made me into the person I am today. I love building and helping shape communites both physically and online. A lot of what I do these days is helping shape and run programs at hack club, making it the best place to be as a teenager interested in computers on the internet. Along the way, I've ran hackathons like [Apocalypse](https://www.youtube.com/watch?v=QvCoISXfcE8), **Canada's largest high school hackathon**, worked in VT for 6 weeks running community moderation and virtual events for [Arcade](https://https://hackclub.com/arcade), coordinted workshops & lighting talks at [Epoch](https://epoch.hackclub.com) and [Outernet](Https://outernet.hackclub.com), and a lot of other stuff I can't fit in here.
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 
 
