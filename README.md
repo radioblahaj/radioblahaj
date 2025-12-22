@@ -1,4 +1,5 @@
-![into the redwoods](https://cloud-252jvz0gp-hack-club-bot.vercel.app/0download__7_.png)
+
+<img width="1200" height="675" alt="Hack Club The Game Twitter Post (1)" src="https://github.com/user-attachments/assets/323ca1b8-6fff-400e-9135-2ab692a160a7" />
 
 # 🌈🦖 Bonjour!
 Hi! I'm Arav, and I'm from Mississauga, Ontario!
