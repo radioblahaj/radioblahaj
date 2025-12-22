@@ -9,9 +9,6 @@ I used to work for [Hack Club](https://hackclub.com) where I ran community logst
 
  Along the way, I've ran hackathons like [Apocalypse](https://www.youtube.com/watch?v=QvCoISXfcE8), **Canada's largest high school hackathon**, worked in VT for 6 weeks running community moderation and virtual events for [Arcade](https://https://hackclub.com/arcade), coordinted workshops & lighting talks at [Epoch](https://epoch.hackclub.com) and [Outernet](Https://outernet.hackclub.com), and a lot of other stuff I can't fit in here.
 
-I'm currently working on: 
-<img width="1200" height="675" alt="Hack Club The Game Twitter Post (1)" src="https://github.com/user-attachments/assets/85ec1a28-ea7f-433d-bc1d-c42256669f97" />
-
 
 
 
