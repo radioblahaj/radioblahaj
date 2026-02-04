@@ -1,6 +1,6 @@
 
 
-# 🌈🦖 Bonjour!
+# 🦖 Bonjour!
 Hi! I'm Arav, and I'm from Mississauga, Ontario!
 
 I'm a freshman at York who loves building and running online communites, connecting people together, programming (I think that's obvious), and a really big poltics & urban planning nerd. I'm currently majoring in Interdiscpinary Social Science.
