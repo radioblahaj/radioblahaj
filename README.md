@@ -3,7 +3,7 @@
 # 🦖 Bonjour!
 Hi! I'm Arav, and I'm from Mississauga, Ontario!
 
-I'm a freshman at York who loves building and running online communites, connecting people together, programming (I think that's obvious), and a really big poltics & urban planning nerd. I'm currently majoring in Interdiscpinary Social Science.
+I'm a second year at York who loves building and running online communites, connecting people together, programming (I think that's obvious), and a really big poltics & urban planning nerd. I'm currently majoring in Interdiscpinary Social Science.
 
 I used to work for [Hack Club](https://hackclub.com) where I ran community logsticts for all the moving parts that power the community. I also led the moderation team for the community of 60,000+ teenagers, and helped support other teams such as the newsletter, virtual events, and onboarding. 
 
